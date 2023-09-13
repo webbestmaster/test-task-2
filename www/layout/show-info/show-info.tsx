@@ -9,7 +9,7 @@ import {ShowType} from '../../hook/use-search-api/use-search-api-type';
 import showInfoStyle from './show-info.scss';
 
 type ShowInfoPropsType = {
-    show: ShowType | void;
+    readonly show: ShowType | void;
 };
 
 export function ShowInfo(props: ShowInfoPropsType): JSX.Element {

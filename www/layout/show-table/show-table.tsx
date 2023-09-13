@@ -5,7 +5,7 @@ import {ShowItem} from './show-item/show-item';
 import showTableStyle from './show-table.scss';
 
 type ShowListPropsType = {
-    showList: Array<ShowType>;
+    readonly showList: Array<ShowType>;
 };
 
 export function ShowTable(props: ShowListPropsType): JSX.Element {

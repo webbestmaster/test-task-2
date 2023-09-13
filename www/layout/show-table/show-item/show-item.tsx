@@ -10,7 +10,7 @@ import {smoothScrollToTop} from '../../../util/dom';
 import showItemStyle from './show-item.scss';
 
 type ShowItemPropsType = {
-    show: ShowType;
+    readonly show: ShowType;
 };
 
 // eslint-disable-next-line complexity

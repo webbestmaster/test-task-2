@@ -4,9 +4,9 @@ import ratingStyle from './rating.scss';
 import {ratingFilledStarLine, ratingStarLine} from './rating-const';
 
 type RatingPropsType = {
-    className?: string;
-    ratingPercent: number;
-    starSize: number;
+    readonly className?: string;
+    readonly ratingPercent: number;
+    readonly starSize: number;
 };
 
 export function Rating(props: RatingPropsType): JSX.Element {

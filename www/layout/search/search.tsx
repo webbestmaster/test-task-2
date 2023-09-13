@@ -10,7 +10,7 @@ import {searchDebounceTimeout, searchQueryName} from './search-const';
 import searchStyle from './search.scss';
 
 type SearchPropsType = {
-    className?: string;
+    readonly className?: string;
 };
 
 export function Search(props: SearchPropsType): JSX.Element {
