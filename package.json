@@ -1,13 +1,13 @@
 {
-  "name": "test-task-home-assignment-tv-series",
+  "name": "test-task-2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webbestmaster/test-task-home-assignment-tv-series.git"
+    "url": "git+https://github.com/webbestmaster/test-task-2.git"
   },
   "bugs": {
-    "url": "https://github.com/webbestmaster/test-task-home-assignment-tv-series/issues"
+    "url": "https://github.com/webbestmaster/test-task-2/issues"
   },
-  "homepage": "https://github.com/webbestmaster/test-task-home-assignment-tv-series#readme",
+  "homepage": "https://github.com/webbestmaster/test-task-2#readme",
   "license": "MIT",
   "author": {
     "name": "WebBestMaster",
@@ -16,8 +16,7 @@
   "version": "0.0.0",
   "description": "",
   "keywords": [
-    "test-task-home-assignment-tv-series",
-    "empty"
+    "test task"
   ],
   "main": "dist/index.js",
   "files": [

@@ -1,10 +1,10 @@
-# react typescript front minimum
+# Test task 2
 
-[![Github CI](https://github.com/webbestmaster/test-task-home-assignment-tv-series/actions/workflows/github-ci.yml/badge.svg)](https://github.com/webbestmaster/test-task-home-assignment-tv-series/actions/workflows/github-ci.yml)
+[![Github CI](https://github.com/webbestmaster/test-task-2/actions/workflows/github-ci.yml/badge.svg)](https://github.com/webbestmaster/test-task-2/actions/workflows/github-ci.yml)
 
-Live demo - https://webbestmaster.github.io/test-task-home-assignment-tv-series/
+Live demo - https://webbestmaster.github.io/test-task-2
 
-Repository link - https://github.com/webbestmaster/test-task-home-assignment-tv-series
+Repository link - https://github.com/webbestmaster/test-task-2
 
 ## Installation
 
