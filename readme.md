@@ -29,13 +29,15 @@ For developers:
 
 2 - I connected localization to the project because I think that the lines of "human text" in the code are bad practice.
 
-3 - I did not connect redux because our project is too small for it.
+3 - I did not use debounce or throttle, because in our example everything works fine without them, you can check it on the performance tab in chrome dev tool.
 
-4 - I wrote a test that check the structure of the server response, I think, for our project it is very important to have the correct response from the server.
+4 - I did not connect redux because our project is too small for it.
 
-5 - Coverage by typescript's types - 100%.
+5 - I wrote tests that check the structure of the server response, I think, for our project it is very important to have the correct response from the server.
 
-6 - _The last and probably the most important point in this document: my decisions, ideas, implementations, coding style and so on can (and will) differ from the one you use in the team, and, of course, if we work together, then I will write the code in the same way as the team_
+6 - Coverage by typescript's types - 100%.
+
+7 - _The last and probably the most important point in this document: my decisions, ideas, implementations, coding style and so on can (and will) differ from the one you use in the team, and, of course, if we work together, then I will write the code in the same way as the team._
 
 In any case, I'm waiting for your opinion. Have a nice day :)
 
